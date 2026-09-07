@@ -175,6 +175,8 @@ Use at your own legal risk.
 - [Beyond Depth](https://www.curseforge.com/minecraft/modpacks/beyond-depth)
 - [Craftoria](https://www.curseforge.com/minecraft/modpacks/craftoria)
 - [Liminal Industries](https://www.curseforge.com/minecraft/modpacks/liminal-industries)
+- [Finality](https://www.curseforge.com/minecraft/modpacks/finality)
+- [Abyssal Ascent](https://www.curseforge.com/minecraft/modpacks/abyssal-ascent)
 
 ### Tips
 
